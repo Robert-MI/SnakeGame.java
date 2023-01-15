@@ -70,5 +70,4 @@ public class Board extends JPanel{
     public static void setSnakeColor(Color snakeColor) {
         Board.snakeColor = snakeColor;
     }
-
 }
